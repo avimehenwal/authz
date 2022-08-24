@@ -1,0 +1,12 @@
+{
+  "name": "authz",
+  "version": "1.0.0",
+  "description": "Attribute Based Access Control",
+  "main": "index.js",
+  "repository": "git@github.com:avimehenwal/authz.git",
+  "author": "avimehenwal <avi.mehanwal@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "@casl/ability": "^6.0.0"
+  }
+}
